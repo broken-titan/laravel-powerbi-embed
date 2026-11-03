@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "laravel/framework": "^6.20.45|^7.30.7|^8.83.28|^9.52.17|^10.48.29"
+        "php": "^8.2",
+        "laravel/framework": "^12.69|^13.30"
     },
     "extra": {
         "laravel": {
